@@ -1,0 +1,2 @@
+Question:
+What directives and configurations precede the establishment of the network topology and scheduling events in the provided script, particularly considering the integration of HDLC protocol and the event of link down at a specified time?
